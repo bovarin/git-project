@@ -1,0 +1,3 @@
+hi all,
+i am struggling to perform git steps 
+could you help, please?
